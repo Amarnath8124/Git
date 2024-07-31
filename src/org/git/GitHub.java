@@ -6,5 +6,8 @@ public class GitHub {
 		
 		System.out.println("Hello Git");
 	}
+    private void payment() {
+		System.out.println("payment");
 
+	}
 }
