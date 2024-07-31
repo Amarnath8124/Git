@@ -6,5 +6,10 @@ public class GitHub {
 		
 		System.out.println("Hello Git");
 	}
+    
+	
+	private void addToCart() {
+		System.out.println("Add to cart");
 
+	}
 }
